@@ -3,10 +3,12 @@
 A simple, lightweight, frameless, transparent desktop widget for Windows (and potentially other platforms...haven't tested tbh) that displays live CPU and Memory usage. Sits unobtrusively in the corner of your desktop.
 
 ---
-
-(Haven't added screenshot yet)
-
-![Desktop Screenshot](placeholder_screenshot.png)
+<div align="left">
+  <div width="500px" align="right">
+    <span>Displays here by default &#8595;</span>
+  </div>
+ <img src="assets/desktop_screenshot.png" alt="Desktop Image">
+</div>
 
 ## Features
 
