@@ -34,17 +34,17 @@ You can find these listed in the `requirements.txt` file.
 2.  **Clone/Download:** Get the script file (`system_widget.py` or similar) and the `requirements.txt` file.
 3.  **Install Dependencies:** Open a terminal or command prompt in the project directory and run:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Running the Widget
 
 Navigate to the project directory in your terminal or command prompt and run the script:
 
-    ```bash
-    python system_widget.py
-    ```
+  ```bash
+  python system_widget.py
+  ```
 
 The widget should appear in the configured screen corner.
 
