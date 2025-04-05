@@ -4,7 +4,8 @@ A simple, lightweight, frameless, transparent, vibes-based desktop widget for Wi
 
 ---
 <div>
- <img src="assets/desktop_screenshot.png" alt="Desktop Image" width="700px">
+ <img src="assets/screenshot1.png" alt="Desktop Image" width="700px">
+ <img src="assets/screenshot2.png" alt="Desktop Image" width="700px">
 </div>
 
 ## Features
