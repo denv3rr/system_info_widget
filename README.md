@@ -1,4 +1,4 @@
-# Lightweight System Monitor Widget
+# Test System Monitor Widget
 
 A simple, lightweight, frameless, and transparent desktop widget for Windows (and potentially other platforms...haven't tested tbh) that displays live CPU and Memory usage. Sits unobtrusively in the corner of your desktop.
 
@@ -29,7 +29,7 @@ A simple, lightweight, frameless, and transparent desktop widget for Windows (an
 
 1.  **Install Python:** Ensure you have Python 3 installed and added to your system's PATH.
 2.  **Clone/Download:** Download the `.zip` or clone this repo.
-3.  **Install Dependencies:** Open a terminal or command prompt in the project directory and run:
+3.  **Install Dependencies:** Open a terminal or command prompt in the root directory and run:
 
    ```bash
    pip install -r requirements.txt
@@ -37,8 +37,7 @@ A simple, lightweight, frameless, and transparent desktop widget for Windows (an
 
 ## Running the Widget
 
-  - Run the `.exe` application file. It will be in root folder or in the `dist` folder.
-  - Run manually from the root folder with:
+  - Test manually from the root folder with:
       - `python src\system_widget.py`
 
 ## Usage
