@@ -1,5 +1,6 @@
 import sys
 import psutil
+import os
 from PyQt6.QtWidgets import (
     QApplication,
     QWidget,
