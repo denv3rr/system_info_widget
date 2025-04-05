@@ -1,6 +1,6 @@
 # Test System Monitor Widget
 
-A simple, lightweight, frameless, and transparent desktop widget for Windows (and potentially other platforms...haven't tested tbh) that displays live CPU and Memory usage. Sits unobtrusively in the corner of your desktop.
+A simple, lightweight, frameless, transparent, vibes-based desktop widget for Windows (and potentially other platforms...haven't tested tbh) that displays live CPU and Memory usage. Sits unobtrusively in the corner of your desktop.
 
 ---
 <div>
